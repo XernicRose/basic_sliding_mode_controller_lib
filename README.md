@@ -19,4 +19,4 @@ My project introduces the following sliding mode control:
 
 If any qeustion, i warmly welcome you to discuss with me by the email 2835533045@qq.com.
 ## Additional
-I'll add explain document one by one later, to introduct every basic sliding mode controller.
+I'll add explain documents one by one later, to introduce every basic sliding mode controller.
