@@ -16,6 +16,7 @@ My project introduces the following sliding mode control:
 * Terminal sliding mode
 * Upper bound sliding mode control
 * Adaptive sliding mode control
+* fuzzy adaptive sliding mode control
 
 If any qeustion, i warmly welcome you to discuss with me by the email 2835533045@qq.com.
 ## Additional
